@@ -9,7 +9,6 @@ This repository contains support material in Python 3 for the course NB4012 Stoc
 
 Content of Notebooks:
 
-- class 1: linear algebra, Gershgorin theorem, simple random walk
-- class 2: branching processes
-- class 3: Wright-Fisher model of population dynamics
-- class 4: Urn models for reinforcement processes
+- Support Class 1: linear algebra, Gershgorin theorem, simple random walk
+- Support Class 2: branching processes, Urn models for reinforcement processes
+- Support Class 3: Wright-Fisher model of population dynamics
