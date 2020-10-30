@@ -2,6 +2,7 @@
 Computational resources
 
 This repository contains support material in Python 3 for the course NB4012 Stochastic Processes and Applications, TU Delft, 2020.
+https://brightspace.tudelft.nl/d2l/home/289561
 
 - click on notebooks to view them
 - to edit and run notebooks on your machine clicking on green code download button to download a zip file
