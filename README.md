@@ -5,7 +5,7 @@ This repository contains support material in Python 3 for the course NB4012 Stoc
 
 - click on notebooks to view them
 - to edit and run notebooks on your machine clicking on green code download button to download a zip file
-- you need to install Jupyter notebook and Python 3 to edit and run notebooks. A relatively simple way is to do this with Anaconda, see here for a desciption.
+- you need to install Jupyter notebook and Python 3 to edit and run notebooks. A relatively simple way is to do this with Anaconda, see here for a desciption: https://test-jupyter.readthedocs.io/en/latest/install.html
 
 Content of Notebooks:
 
