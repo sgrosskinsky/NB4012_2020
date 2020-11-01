@@ -11,5 +11,4 @@ https://brightspace.tudelft.nl/d2l/home/289561
 Content of Notebooks:
 
 - Support Class 1: linear algebra, Gershgorin theorem, simple random walk
-- Support Class 2: branching processes, Urn models for reinforcement processes
-- Support Class 3: Wright-Fisher model of population dynamics
+- Support Class 2: Wright-Fisher model of population dynamics, branching processes
